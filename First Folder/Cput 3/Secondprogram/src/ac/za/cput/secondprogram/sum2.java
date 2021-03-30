@@ -1,12 +1,13 @@
 package ac.za.cput.secondprogram;
+import com.sun.xml.internal.ws.api.model.wsdl.WSDLOutput;
+
 import java.util.Scanner ;
 
 public class sum2 {
+    public static void main(String[] args) {
 
-    Scanner Sc = new Scanner (System.in);
-    int area;
-    int height;
-    int base = (area * height) / 2;
-System.out.println("Name");
 
+        System.out.println("Name");
+
+    }
 }
